@@ -1,0 +1,13 @@
+{
+    "name": "asiadevmedia/bostgame",
+    "description": "Topup bostgame",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Asiadevmedia",
+            "email": "asiadevmedia@gmail.com"
+        }
+    ],
+    "require": {}
+}
