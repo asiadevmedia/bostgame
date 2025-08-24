@@ -3,6 +3,11 @@
     "description": "Topup bostgame",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Asiadevmedia\\Bostgame\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Asiadevmedia",
